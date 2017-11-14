@@ -1,9 +1,9 @@
 === FB Quote Plugin For WP ===
-Contributors: mrahmadawais, WPTie
+Contributors: mrahmadawais, maedahbatool, WPTie
 Donate link: http://AhmadAwais.com/contact/
 Tags: facebook, save, button, facebook quote plugin, fb quote plugin, wp quote plugin for fb, wp fb quote plugin, wp facebook quote plugin
 Requires at least: 4.4.0
-Tested up to: 4.5.0
+Tested up to: 5.0
 Stable tag: 1.0.0
 License: GPL v2.0
 

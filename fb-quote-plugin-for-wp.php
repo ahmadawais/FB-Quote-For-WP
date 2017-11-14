@@ -3,8 +3,8 @@
  * Plugin Name: FB Quote Plugin for WP
  * Plugin URI: https://github.com/WPTie/FB-Quote-Plugin-For-WP
  * Description: It lets people select text on your page and add it to their share on FB, so they can tell a more expressive story.
- * Author: mrahmadawais, WPTie
- * Author URI: http://AhmadAwais.com/
+ * Author: WPCouple(Ahmad Awais & Maedah Batool)
+ * Author URI: https://WPCouple.com/
  * Version: 1.0.0
  * License: GPL2+
  * License URI: http://www.gnu.org/licenses/gpl-2.0.txt
